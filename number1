@@ -14,9 +14,9 @@ import java.util.*;
 				  x=0;
 			  
 			  if(x==1)
-				  System.out.println("positive");
+				  System.out.println("positive number");
 			  else
-				  System.out.println("negative");
+				  System.out.println("negative number");
 			  
 		  }
 }
